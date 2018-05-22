@@ -1,0 +1,49 @@
+body{
+  background-image: url(http://www.baltana.com/files/wallpapers-10/Geometry%20Diffrent%20Colorful%20Polygon%20Wallpaper.png);
+  width: auto;
+  height: auto;
+  text-align: center;
+  background-color: lightgray;
+
+  color: white;
+  font-family: 'Varela', cursive;
+}
+.container{
+  background-color: white;
+  color: black;
+  width: 800px;
+  padding: 50px;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  position: static;
+}
+h1{
+  font-weight: bold;
+}
+.containertext{
+  margin-top: 100px;
+  padding-bottom: 10px;
+}
+#resultbox{
+  border: 1px solid;
+  border-color: gray;
+  width: 271px;
+  height: 106px;
+  text-align: justify;
+}
+#aplicar{
+  margin-top: 30px;
+  padding: 15px;
+}
+.bold{
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
+}
+.underline{
+ text-decoration: underline;
+}
